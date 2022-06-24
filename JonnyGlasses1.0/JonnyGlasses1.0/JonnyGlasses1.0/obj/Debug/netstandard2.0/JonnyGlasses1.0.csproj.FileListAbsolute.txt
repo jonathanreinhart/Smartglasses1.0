@@ -1,0 +1,15 @@
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\bin\Debug\netstandard2.0\JonnyGlasses1.0.deps.json
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\bin\Debug\netstandard2.0\JonnyGlasses1.0.dll
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\bin\Debug\netstandard2.0\JonnyGlasses1.0.pdb
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\JonnyGlasses1.0.csproj.AssemblyReference.cache
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\JonnyGlasses1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\JonnyGlasses1.0.AssemblyInfoInputs.cache
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\JonnyGlasses1.0.AssemblyInfo.cs
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\JonnyGlasses1.0.csproj.CoreCompileInputs.cache
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\JonnyGlasses1.0.dll
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\refint\JonnyGlasses1.0.dll
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\JonnyGlasses1.0.pdb
+C:\Users\2561369\source\repos\JonnyGlasses1.0\JonnyGlasses1.0\JonnyGlasses1.0\obj\Debug\netstandard2.0\ref\JonnyGlasses1.0.dll
